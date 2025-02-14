@@ -34,8 +34,8 @@ See [Demo](https://game-rules.anushchat.dev/)
 
 ## Built With 
 
-- [ReactJS v18](https://react.dev/) - Frontend Javascript web framework
-- [NextJS v14](https://nextjs.org/) - React framework
+- [ReactJS v19](https://react.dev/) - Frontend Javascript web framework
+- [NextJS v15](https://nextjs.org/) - React framework
 - [TypeScript](https://www.typescriptlang.org/) - Open-source language which builds on JavaScript
 - [Axios](https://www.npmjs.com/package/axios) - For making requests to the API
 
